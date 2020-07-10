@@ -10,3 +10,9 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: 100%;
 }
+.Column {
+    width: 350px;
+    float: left;
+    font-size: 140%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
