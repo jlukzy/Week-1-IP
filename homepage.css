@@ -1,0 +1,15 @@
+.Main-Text {
+    border: 1px solid red;
+    text-align: center;
+    font-size: 250%;
+    font-weight: 200;
+    font-family: sans-serif;
+    border-left: 4px solid red;
+    border-right: 4px solid red;
+    border-top: 8px solid black;
+    border-bottom: 8px solid black;
+    padding: 8px;
+    margin: 20px;
+    
+
+}
