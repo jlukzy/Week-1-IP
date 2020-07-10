@@ -16,3 +16,17 @@
     font-size: 140%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.Sidebar4 {
+    width: 15%;
+    float: center;
+    margin: 4px;
+    padding: 3px;
+    text-align: left;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+
+}
+.Sidebar4 p{
+    color: red;
+}
