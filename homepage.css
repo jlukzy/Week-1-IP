@@ -24,3 +24,10 @@
     text-align: center;
     font-style: italic;
 }
+.center {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-stretch: extra-expanded;
+    font-weight: bolder;
+    font-size: 670%;
+}
