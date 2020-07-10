@@ -12,11 +12,15 @@
     margin: 20px;
 }
 .sidebar {
-    width: 40%;
+    width: 11%;
     float: left;
     border: 1px solid red;
     border-left: 4px solid red;
     border-right: 4px solid red;
     border-top: 6px solid black;
     border-bottom: 6px solid black;
+    margin: 2px;
+    padding: 1px;
+    text-align: center;
+    font-style: italic;
 }
