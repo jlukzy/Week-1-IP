@@ -31,3 +31,17 @@
     font-weight: bolder;
     font-size: 670%;
 }
+.sidebar2 {
+    width: 15%;
+    length: 20%;
+    float: right;
+    border: 1px solid red;
+    border-left: 4px solid red;
+    border-right: 4px solid red;
+    border-top: 6px solid black;
+    border-bottom: 6px solid black;
+    margin: 2px;
+    padding: 1px;
+    text-align: center;
+    font-style: italic;
+}
